@@ -1,0 +1,45 @@
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll

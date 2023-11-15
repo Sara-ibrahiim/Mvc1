@@ -1,0 +1,68 @@
+﻿@model EmployeeViewModel
+@{
+   // ViewData["Title"] = "CreateUpdatePartialView";
+    var Departments = new SelectList(ViewBag.Departments, "Id", "Name");
+}
+
+<div class="form-group">
+    <label asp-for="@Model.Name" class="col-form-label"></label>
+    <input asp-for="@Model.Name" class="form-control" />
+    <span asp-validation-for="@Model.Name" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="@Model.Address" class="col-form-label"></label>
+    <input asp-for="@Model.Address" class="form-control" />
+    <span asp-validation-for="@Model.Address" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="@Model.Salary" class="col-form-label"></label>
+    <input asp-for="@Model.Salary" class="form-control" />
+    <span asp-validation-for="@Model.Salary" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="@Model.Email" class="col-form-label"></label>
+    <input asp-for="@Model.Email" class="form-control" />
+    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+</div>
+            ﻿
+
+
+<div class="form-group">
+    <label asp-for="@Model.HireDate" class="col-form-label"></label>
+    <input type="date" asp-for="@Model.HireDate" class="form-control" />
+    <span asp-validation-for="@Model.HireDate" class="text-danger"></span>
+</div>
+            ﻿
+
+<div class="form-group">
+    <label asp-for="@Model.DepartmentId" class="col-form-label"></label>
+    <select asp-for="@Model.DepartmentId" asp-items="Departments" class="form-control">
+        <option>-- Select Department </option>
+    </select>
+    <span asp-validation-for="@Model.DepartmentId" class="text-danger"></span>
+</div>
+
+
+ <div class="form-group">
+ 
+    
+    <label asp-for="@Model.Image" class="col-form-label form-check-label"></label>
+    <input asp-for="@Model.Image" class="form-control" type="file" />
+ 
+
+</div>
+<div class="form-group form-check">
+
+    <input asp-for="@Model.IsActive" class="form-control form-check-input" type="checkbox" />
+    <label asp-for="@Model.IsActive" class="col-form-label form-check-label"></label>
+
+
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+}
+ 

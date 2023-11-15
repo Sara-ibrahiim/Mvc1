@@ -1,0 +1,36 @@
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll

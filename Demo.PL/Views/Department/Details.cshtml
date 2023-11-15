@@ -1,0 +1,40 @@
+﻿@model DepartmentViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Department Details</h1>
+<br />
+<br />
+
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert_success">
+        <h3>
+            @TempData["Message"]
+        </h3>
+
+
+    </div>
+}
+<div class="row">
+    <div class="col-12">
+        
+        <div class="form-group">
+            <label asp-for="@Model.Code" class="col-form-label"></label>
+            <input asp-for="@Model.Code" class="form-control" readonly />
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Name" class="col-form-label"></label> 
+            <input asp-for="@Model.Name" class="form-control" readonly />
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.DateCreation" class="col-form-label"></label>
+            <input asp-for="@Model.DateCreation" class="form-control" readonly />
+        </div>
+        <br />
+        <a class="btn btn-success" asp-action="Update" asp-route-id="@Model.Id">Update</a> |
+        <a class="btn btn-light" asp-action="Index">Back To List</a>
+    </div>
+</div>

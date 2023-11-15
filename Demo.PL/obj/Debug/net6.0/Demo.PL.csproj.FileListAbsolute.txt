@@ -1,0 +1,766 @@
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\appsettings.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.staticwebassets.runtime.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.exe
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.deps.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.runtimeconfig.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.pdb
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.BLL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.BLL.pdb
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.AssemblyReference.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.AssemblyInfoInputs.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.AssemblyInfo.cs
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.CoreCompileInputs.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.RazorAssemblyInfo.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.RazorAssemblyInfo.cs
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo.PL.props
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo.PL.props
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo.PL.props
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\scopedcss\bundle\Demo.PL.styles.css
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\scopedcss\projectbundle\Demo.PL.bundle.scp.css
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.CopyComplete
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\refint\Demo.PL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.pdb
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.genruntimeconfig.cache
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\ref\Demo.PL.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\MessagePack.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\So0o\Desktop\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.AssemblyReference.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.AssemblyInfoInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.AssemblyInfo.cs
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.CoreCompileInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.RazorAssemblyInfo.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.RazorAssemblyInfo.cs
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\refint\Demo.PL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.pdb
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\appsettings.Development.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\appsettings.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.staticwebassets.runtime.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.exe
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.deps.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.runtimeconfig.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.pdb
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Humanizer.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\MessagePack.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\MessagePack.Annotations.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Build.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Common.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Configuration.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Frameworks.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.LibraryModel.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Packaging.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.ProjectModel.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Protocol.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Versioning.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.Convention.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.Hosting.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.Runtime.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.TypedParts.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\af\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ar\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\az\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\bg\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\da\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\el\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fa\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\he\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\hr\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\hu\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\hy\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\id\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\is\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ku\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\lv\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\mt\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\nb\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\nl\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ro\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sk\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sl\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sr\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\sv\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\uk\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\vi\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.BLL.pdb
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.DAL.pdb
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo.PL.props
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo.PL.props
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo.PL.props
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets.pack.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets.build.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets.development.json
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\scopedcss\bundle\Demo.PL.styles.css
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\scopedcss\projectbundle\Demo.PL.bundle.scp.css
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.CopyComplete
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.genruntimeconfig.cache
+S:\1rte\back\5-MVC\Khaled\as\New folder (2)\Demo.PL\Demo.PL\obj\Debug\net6.0\ref\Demo.PL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\appsettings.Development.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\appsettings.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.staticwebassets.runtime.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.exe
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.deps.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.runtimeconfig.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.PL.pdb
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Humanizer.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\MessagePack.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\MessagePack.Annotations.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Build.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Common.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Configuration.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Frameworks.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.LibraryModel.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Packaging.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.ProjectModel.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Protocol.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\NuGet.Versioning.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.Convention.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.Hosting.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.Runtime.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Composition.TypedParts.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\af\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ar\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\az\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\bg\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\da\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\el\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fa\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\he\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\hr\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\hu\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\hy\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\id\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\is\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ku\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\lv\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\mt\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\nb\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\nl\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pt\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ro\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\sk\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\sl\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\sr\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\sv\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\uk\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\vi\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.BLL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.DAL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.BLL.pdb
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Demo.DAL.pdb
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.AssemblyReference.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.AssemblyInfoInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.AssemblyInfo.cs
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.CoreCompileInputs.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.RazorAssemblyInfo.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.RazorAssemblyInfo.cs
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo.PL.props
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo.PL.props
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo.PL.props
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets.pack.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets.build.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\staticwebassets.development.json
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\scopedcss\bundle\Demo.PL.styles.css
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\scopedcss\projectbundle\Demo.PL.bundle.scp.css
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.CopyComplete
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\refint\Demo.PL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.pdb
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\Demo.PL.genruntimeconfig.cache
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\obj\Debug\net6.0\ref\Demo.PL.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\AutoMapper.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+S:\1rte\back\5-MVC\Khaled\as\mvc pro\Demo.PL\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
